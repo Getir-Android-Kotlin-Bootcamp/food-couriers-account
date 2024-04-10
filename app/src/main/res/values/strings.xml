@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Couriers</string>
+    <string name="food_couriers">Food Couriers</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="log_in">Log in</string>
+    <string name="login_with_google">Login with Google</string>
+
+</resources>
