@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Create Account Screen](Create%20Account.png)
+![Create Account Screen](Create%20Account.jpg)
 
 
 
